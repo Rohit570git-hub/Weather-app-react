@@ -148,7 +148,7 @@ function WeatherComponent(props) {
           color: "black",
         }}
       >
-        <a href="https://rohit570git-hub.github.io/weatherapp-react/">Back</a>
+        <a href="https://rohit570git-hub.github.io/Weather-app-react/">Back</a>
       </button>
       <WeatherCondition>
         <Condition>
